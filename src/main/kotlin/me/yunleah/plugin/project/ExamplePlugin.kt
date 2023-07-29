@@ -1,4 +1,4 @@
-package io.github.username.project
+package me.yunleah.plugin.project
 
 import taboolib.common.platform.Plugin
 import taboolib.common.platform.function.info
